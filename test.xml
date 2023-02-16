@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<users>
+		<user id="1" name="Simon" username="simon" password="simon"/>
+		<user id="2">
+			<name type="string">Simon</name>
+			<username type="string">simon</username>
+			<password type="string">simon</password>
+			<telephones>
+				<telephone>
+					<id>1</id>
+					<number>5556767</number>
+				</telephone>
+				<telephone>
+
+				</telephone>
+			</telephones>
+		</user>
+	</users>
+</root>
